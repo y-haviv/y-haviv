@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0078D7&center=true&width=800&height=80&lines=%F0%9F%91%8B+Hi+There" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0078D7&center=true&width=800&height=80&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" />
 
 🎓 Computer Science Graduate  
 💻 Software Developer & AI  
