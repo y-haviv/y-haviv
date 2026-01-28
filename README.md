@@ -1,8 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0078D7&center=true&width=800&height=80&lines=%F0%9F%91%8B+Hi+There" alt="Typing SVG" />
 
 🎓 Computer Science Graduate  
-💻 Software Developer  
-🤖 ML & NLP Enthusiast  
+💻 Software Developer & AI  
 
 ---
 
@@ -44,23 +43,25 @@
 
 ## 📌 Featured Projects  
 
-🚧 Project #1 – Coming Soon  
-🚧 Project #2 – Coming Soon  
+### [NexaBurst Multiplayer Game](https://github.com/y-haviv/nexaburst-multiplayer-game.git)  
+A real-time multiplayer game built with Flutter & Dart, demonstrating game mechanics, networking, and cross-platform mobile development.
+
+### [Android Subtitle Overlay](https://github.com/y-haviv/android-subtitle-overlay.git)  
+An Android application that overlays subtitles on videos in real-time. Built with Java/Kotlin and Android SDK, showcasing UI overlays, media handling, and user interaction.
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y-Haviv&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-haviv&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Haviv&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y-haviv&layout=compact)
 
 ---
 
 ## 📫 Contact  
 
-📧 Email: your_email_here  
-💼 LinkedIn: your_linkedin_here  
+📧 Email: yehuda029974129@gmail.com 
 
 ---
 
