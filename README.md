@@ -54,14 +54,15 @@ An Android application that overlays subtitles on videos in real-time. Built wit
 High-throughput multithreaded file encryption tool in C++ for Windows.  
 Implements streaming ChaCha20 encryption, PBKDF2-HMAC-SHA256 key derivation, parallel pipeline processing, and verified integrity.
 
-
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-haviv&show_icons=true)
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api?username=y-haviv&show_icons=true&hide_border=true&height=160" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=y-haviv&layout=compact&hide_border=true&height=160" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y-haviv&layout=compact)
 
 ---
 
