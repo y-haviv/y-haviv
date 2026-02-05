@@ -50,6 +50,11 @@ A real-time multiplayer game built with Flutter & Dart, demonstrating game mecha
 ### [Android Subtitle Overlay](https://github.com/y-haviv/android-subtitle-overlay.git)  
 An Android application that overlays subtitles on videos in real-time. Built with Java/Kotlin and Android SDK, showcasing UI overlays, media handling, and user interaction.
 
+### [FastShield](https://github.com/y-haviv/fast-shield)
+High-throughput multithreaded file encryption tool in C++ for Windows.  
+Implements streaming ChaCha20 encryption, PBKDF2-HMAC-SHA256 key derivation, parallel pipeline processing, and verified integrity.
+
+
 ---
 
 ## 📊 GitHub Stats  
